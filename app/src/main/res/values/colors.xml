@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="lightBlack">#8B8080</color>
+    <color name="grey">#666060</color>
+    <color name="lightGrey">#B0ACAC</color>
+    <color name="greyWhite">#E3DEDE</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="register_yellow">#f4e21a</color>
+    <color name="blue">#064AD3</color>
+    <color name="otherBlue">#3D78EF</color>
+    <color name="LightBlue">#95B2ED</color>
+    <color name="blueishWhite">#CED9EF</color>
+    <color name="blueishLLightWhite">#EBEFF4</color>
+    <color name="yellow">#F9D952</color>
+    <color name="LightYellow">#F3EBA9</color>
+    <color name="orange">#FD531E</color>
+    <color name="marron">#8B1736</color>
+    <color name="mocBlack">#211C1B</color>
+    <color name="mocRoseRed">#A01E40</color>
+    <color name="mocYellow">#F9D952</color>
+    <color name="mocGreen">#368E47</color>
+    <color name="mocBlack_one">#707070</color>
+    <color name="mocBlack_status">#232E45</color>
+    <color name="mocBlack_67">#AB211C1B</color>
+    <color name="mocBlack_80">#CC343434</color>
+
+    <color name="mocAsh">#E3E3E3</color>
+    <color name="mocBgAsh">#2BD6D3D4</color>
+    <color name="mocLightBrown">#AA5B38</color>
+
+
+    <color name="green">#0F7F0B</color>
+    <color name="lightGreen">#77B276</color>
+    <color name="greenishWhite">#DEF4DC</color>
+    <color name="red">#DF0909</color>
+    <color name="lightRed">#D76C6C</color>
+    <color name="reddishWhite">#F8C2C2</color>
+    <color name="goldenDark">#9E832D</color>
+    <color name="golden">#F3DB92</color>
+
+
+    <color name="ash">#B3ADAD</color>
+    <color name="lightDarkAsh">#A4B6B9</color>
+    <color name="darkAsh">#5C6271</color>
+    <color name="blueishAsh">#7392A9</color>
+    <color name="lightAsh">#E3DCDC</color>
+    <color name="limeGreen">#A6F635</color>
+
+</resources>
